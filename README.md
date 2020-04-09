@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f39c62de-075d-4f52-ad43-41cfd23b46ff/deploy-status)](https://app.netlify.com/sites/decider-ensemble/deploys)
+
+
 ## INFORMATIONS / METHODOLOGIE
 Ce repo contiendra l'ensemble des éléments "custom" propres au projet de cartographie, indépendamment du code source d'Apiviz. Ceci permettra une meilleure flexibilité et coordination : 
 - le chantier purement technique s'effectuera sur le repo ApiViz, dans le but d'en améliorer la généricité
