@@ -1,0 +1,334 @@
+tag_structure,code_structure,tag_dispositif,code_dispositif,tag_thematique,code_thematique,titre_projet,porteur_projet,porteur_projet_full,presentation_projet,acteurs,adresse_raw,adresse_rue,adresse_code_postal,adresse_commune,adresse_postale,source,url_site,url_logo,url_pdf,a_retenir,titre_etapes,etapes,latitude,longitude,result_label,result_score,result_type,result_id,result_housenumber,result_name,result_street,result_postcode,result_city,result_context,result_citycode,result_oldcitycode,result_oldcity,result_district
+DÉPARTEMENT,DEP,BUDGET ET FINANCEMENT PARTICIPATIF,BP,BUDGET,BUD,Budget Participatif Gersois,Département du Gers ,Le Département du Gers est un département de la région Occitanie qui compte environ 191 000 habitants répartis dans 460 communes pour un budget annuel d’environ 280 millions d’euros et 1500 agents. ,"En 2018  le Département du Gers a été le premier à mettre en place un budget participatif. Ce budget participatif est doté d’1 million d’euros dont 10 % (100 000 euros) sont destinés à des projets portés par des jeunes de moins de 20 ans.
+
+Ce premier budget participatif a recueilli 1000 idées lors de la période de dépôt du 02 avril au 30 juin 2018. Ces idées ont permis de proposer 375 projets au vote des gersoises et des gersois. 
+
+Les règles du Budget Participatif Gersois ont été co-construites lors d’ateliers citoyens qui ont réuni en moyenne 300 à 500 personnes. Une commission citoyenne  chargée du règlement du budget participatif a été mise en place avec une centaine de citoyens volontaires. 
+
+Fort du succès de la première édition en 2018  le Département a reconduit un budget participatif en 2019 avec plus de 47000 votants  soit 33 % du corps électoral.",,"Département du Gers 
+81 rue de Pessan - 32000 AUCH",81 rue de Pessan,32000,Auch,81 rue de Pessan 32000 Auch,Lauréat (4 étoiles) des Trophées de la Participation et de la Concertation 2019,www.budgetparticipatif.gers.fr,https://raw.githubusercontent.com/co-demos/decider-ensemble/master/illustrations/fiches/Logo_cg_gers.jpg?raw=true,,"1er Département à mettre en place un budget participatif
+
+33% du corps électoral a voté en 2019 (47000 votants)
+
+Un processus co-construit avec des ateliers citoyens et une commission citoyenne",DÉROULÉ DU BUDGET PARTICIPATIF,"Du 02 avril au 30 juin :: Dépôt d'idées sur internet et dans les espaces dédiées //
+
+Été 2019 :: Passage des idées aux projets via les services du Département sous le contrôle de la Commission citoyenne // 
+
+Du 05 septembre au 06 octobre :: Les 375 projets sont soumis au vote des gersois //
+
+Octobre 2019 :: Dépouillement des votes et mise en oeuvre l'année suivante",43.639783,0.598564,81 Route de Pessan 32000 Auch,0.77,housenumber,32013_3420_00081,81,Route de Pessan,,32000,Auch,"32, Gers, Occitanie",32013,,,
+PETITE VILLE OU EPCI (MOINS DE 20 000 HABITANTS),PV,DISPOSITIF DE CONCERTATION,DC,URBANISME / AMÉNAGEMENT,URB,Faire preuve de caractère ! Projet de renouveau du centre-ville de Castillon-la-Bataille,Commune de Castillon-la-Bataille,Castillon-la-Bataille est une ville de 3200 habitants  située dans le département de la Gironde. Elle fait face à une décroissance de la population (-2 % entre 2008 et 2013) et de l’emploi (-11 % entre 2008 et 2013) et cherche à remobiliser sa population.,"En 2014  la ville de Castillon-la-Bataille a lancé un large projet pour transformer durablement le cadre de vie des habitants de la commune. Dans une démarche de revitalisation du centre-ville  l’ambition était de « faire projet ensemble » et d’associer tous les acteurs de la ville. 
+
+Ce projet a été construit au regard du cumul de nombreuses difficultés sociales et économiques : population fracturée entre communautés et générations  ville trop petite pour prétendre aux dispositifs d’aide (ex : Action Cœur de Ville)  sentiment de délaissement  etc. 
+
+Une première étape de diagnostic a été menée avec l’ensemble des partenaires locaux pour objectiver la situation et cerner collectivement les enjeux du territoire. L’entretien individuel a été choisi pour échanger avec l’ensemble des structures éducatives  culturels  associatives et les commerçants du territoire pour réaliser ce diagnostic  point de départ pour construire un projet urbain ambitieux. 
+
+La seconde étape visait à impliquer l’ensemble des habitants à la construction de ce projet : en passant par les relais locaux (associations locales notamment) et les supports de communication de la ville puis en allant chercher les citoyens sur leurs lieux de vie. Trois-demi-journées de rencontre dans l’espace public ont notamment été organisées (sur le marché de la ville  à la sortie du supermarché et avec un stand mobile). Des événements plus festifs et interactifs (ex : jeux de piste) ont aussi été mis en place. Puis  les outils ont évolué vers des dispositifs de participation plus autonomes permettant de recueillir les propositions des citoyens. ","O Tempora - Agence de communication
+
+O+ Urbanistes - Agence d'études  de conseils et de projet du projet urbain","Commune de Castillon-la-Bataille
+25 Place Maréchal de Turenne 
+33350 Castillon-la-Bataille",25 Place Maréchal de Turenne ,33350,Castillon-la-Bataille,25 Place Maréchal de Turenne  33350 Castillon-la-Bataille,Lauréat (4 étoiles) des Trophées de la Participation et de la Concertation 2019,www.castillonlabataille.fr,,,"Dans un contexte de tensions sociales et de fractures entre ses habitants  la commune a décidé de mieux impliquer les citoyens pour dessiner ensemble un projet d’avenir commun 
+
+Divers outils ont été mis en place pour répondre aux différents objectifs : participation guidée et présence sur le terrain pour mobiliser dans un premier temps  puis évolution vers une participation plus autonome. 
+
+440 personnes  soit 14 % de la population ont participé à ce dispositif",DÉROULÉ DU PROJET,"Mai 2019 :: Présentation du dispositif aux relais locaux  aux prescripteurs et ambassadeurs de la démarche //
+
+Mai / Juin 2019 :: Annonce du dispositif à travers l’ensemble des supports de la ville ; Mise en œuvre de la 1ère phase du dispositif en allant à la rencontre des habitants //
+
+Juin / Juillet 2019 :: Mise en place de la 2ème phase du dispositif constituée d’outils auto-porteurs //
+
+Août / Septembre 2019 :: Mise en place de la 3ème phase avec une dynamique artistique et créative //
+
+Septembre 2019 :: Compte-rendu de la collecte de la parole habitante et des premiers éléments de projet à la population //",44.852524,-0.043334,25 Place Turenne 33350 Castillon-la-Bataille,0.75,housenumber,33108_0145_00025,25,Place Turenne,,33350,Castillon-la-Bataille,"33, Gironde, Nouvelle-Aquitaine",33108,,,
+VILLE MOYENNE OU EPCI (20000 à 100000 HABITANTS),VM,AUTRES,AU,"ENVIRONNEMENT / CLIMAT / ENERGIE / BIODIVERSITE
+
+URBANISME / AMENAGEMENT 
+
+CULTURE
+
+ÉDUCATION
+
+ACTION ET INCLUSION SOCIALE
+
+TRANSPORTS / MOBILITÉ
+
+LOGEMENT
+
+DEMOCRATIE ET CITOYENNETE 
+
+ORGANISATION DES SERVICES PUBLICS
+
+CADRE DE VIE ",ENV-URB-CUL-EDU-ACT-MOB-LOG-DEM-SER-VIE,Vers un écosystème démocratique,Commune de Kingersheim,Kingersheim est une ville de 13000 habitants  située dans le département du Haut-Rhin. Elle a initié depuis 1998 des démarches en faveur d’une démocratie plus participative.,"Depuis 1998  la ville de Kingersheim s’est engagée dans une large démarche pour associer les citoyens à la prise de décision et mettre en place un écosystème démocratie et participatif. L’objectif poursuivi est la démocratisation de la démocratie locale  d’une « démocratie providentielle » vers une « démocratie-construction ». 
+
+La démarche de participation s’inscrit dans un écosystème global qui se décline dans un lieu (la Maison de la citoyenneté)  un principe (tout projet ou décision structurante fait l’objet d’une séquence démocratique)  des outils (et notamment les conseils participatifs) et le souci de développer le pouvoir d’agir (Fonds d’initiative citoyenne). 
+
+Une séquence démocratique (voir les étapes dans la frise) sur un projet doit permettre aux citoyens de se l’approprier  d’en débattre et de faire des propositions concrètes co-construites avant la phase décisionnelle assumée par le Conseil municipal. Elle s’incarne dans un Conseil participatif qui réunit 4 collèges : habitants  élus  experts et associations / entreprises. A l’issue de ses travaux de co-construction sur un projet  il se transforme en Conseil d’évaluation. 
+
+En parallèle de ces séquences démocratiques  la ville organise les « Olympiades de la démocratie » dont les différentes étapes constituent une offre de participation supplémentaire. Ces « Olympiades » permettent de susciter le désir démocratique et de troucher davantage d’habitants. 
+
+",,"Commune de Kingersheim
+Place de la Libération 
+68262 KINGERSHEIM cedex",Place de la Libération ,68262,Kingergersheim,Place de la Libération  68262 Kingergersheim,Lauréat (4 étoiles) des Trophées de la Participation et de la Concertation 2019,www.ville-kingersheim.fr,,,"La commune poursuit l’objectif de mettre en place une « démocratie-construction » et crée depuis 1998 un véritable écosystème démocratique 
+
+Chaque projet ou décision structurante fait l’objet d’une « séquence démocratique » (co-construction) ",DÉROULÉ D'UNE SÉQUENCE DÉMOCRATIQUE,"Étape 1:: Invitation des habitants à participer à une séquence démocratique co-construire par un porteur politique  un référent technique et trois « agoracteurs » (citoyens engagés) //
+
+Étape 2 :: Organisation d’une réunion publique pour informer sur le projet faisant l’objet de la séquence démocratique  lui donner du sens et le mettre en débat //
+
+Étape 3 :: Création d’un Conseil participatif qui regroupe les ressources de sens  d’intelligence et d’expertise //
+
+Étape 4 :: Co-construire au sein du Conseil participatif de propositions et d’actions alimentant la décision du Conseil municipal //
+
+Étape 5 :: Transformation du Conseil participatif en Conseil d’évaluation //
+
+Étape 6 :: Restitution régulière des séquences démocratiques menées via le magazine municipal et le site internet de la ville",49.036057,2.062362,Place de la Liberation 95000 Cergy,0.53,street,95127_0940,,Place de la Liberation,,95000,Cergy,"95, Val-d'Oise, Île-de-France",95127,,,
+ASSOCIATION OU COLLECTIF CITOYEN,AC,"DIALOGUE ENTRE LES PARTIES PRENANTES
+
+INSTANCE DE PARTICIPATION 
+
+DISPOSITIF DE CONCERTATION 
+
+AUTRE",DPP-IP-DC-AU,"ENVIRONNEMENT / CLIMAT / ENERGIE / BIODIVERSITE
+
+ACTION SOCIALE
+
+LOGEMENT
+
+DEMOCRATIE ET CITOYENNETE 
+
+CADRE DE VIE ",ENV-ACT-LOG-DEM-VIE,Le Débat Permanent ,Samusocial de Paris,"Créé en 1993  le Samu Social de Paris déploie  notamment par l’intermédiaire de ces équipes mobiles  un ensemble d’actions pour lutter contre la grande exclusion. Avec ce projet  il participe à la prise en compte de la parole des personnes en situation de précarité.
+","Avec l’appui du Conseil d’administration du Samu Social  il a été décidé de poursuivre une initiative née du Grand Débat National en créant « le débat permanent » : un groupe de personnes accompagnées et de professionnels souhaitant agir pour améliorer les conditions de vie des personnes en précarité. Il a notamment pour ambition de mettre au centre des débats la parole des personnes concernées et d’œuvrer à la reconnaissance de leur expertise. 
+
+Ce débat permanent a organisé 5 commissions thématiques (qualité de l’hébergement et vision écologique  situation des personnes sans droits administratifs  etc.) co- pilotées par un professionnel et une personne accompagnée. Cette volonté d’un statut d’égal à égal transparait tout au long de la démarche : co-construction des thématiques  des idées et actions concrètes à mener  etc. Ce statut était primordial pour donner du sens et de la légitimité aux personnes qui s’investissent dans la démarche. ",,"Samusocial de Paris
+51 rue Ledru-Rollin
+94200 IVRY-SUR-SEINE",51 rue Ledru-Rollin,94200,Ivry-sur-Seine,51 rue Ledru-Rollin 94200 Ivry-sur-Seine,Lauréat (4 étoiles) des Trophées de la Participation et de la Concertation 2019,www.samusocial.paris,,,"
+La volonté d’une co-construction perpétuelle de la démarche entre professionnels et personnes accompagnées 
+
+La valorisation de l’expertise des personnes en situation de précarité pour améliorer leur cadre de vie 
+
+Un impact au sein même de la gouvernance du Samu Social avec la possibilité pour les personnes accompagnées de bénéficier d’une représentation permanente en son sein ",DÉROULÉ DU PROJET ,"Étape 1 :: Constitution d’un comité de pilotage dans le cadre du Grand Débat National //
+
+Étape 2 :: Organisation d’un grand débat au sein du Samusocial de Paris //
+
+Étape 3 :: Présentation des conclusions au CESE et au Conseil d’Administration du Samusocial
+de Paris //
+
+Étape 4 :: Rassemblement du comité de pilotage pour acter la poursuite des actions menées au sein d’un groupe nommé « Débat Permanent » //
+
+Étape 5 :: Constitution de cinq groupes thématiques  se réunissant à intervalles réguliers //
+
+Étape 6 :: Organisation de plénière tous les deux mois pour le suivi des travaux",48.817196,2.386769,51 Rue Ledru-rollin 94200 Ivry-sur-Seine,0.96,housenumber,94041_5115_00051,51,Rue Ledru-rollin,,94200,Ivry-sur-Seine,"94, Val-de-Marne, Île-de-France",94041,,,
+ENTREPRISE PRIVÉE,EP,"DIALOGUE ENTRE LES PARTIES PRENANTES 
+
+DISPOSITIF DE CONCERTATION 
+
+AUTRE",DPP-DC-AU,"URBANISME / AMÉNAGEMENT 
+
+TRANSPORT /MOBILITÉ",URB-MOB,Nudge participatif : une démarche expérimentale pour améliorer la sécurité des franchissements aux passages à niveau ,SNCF Réseau ,SNCF Réseau assure l’entretien  la modernisation et la sécurité des 30 000 kilomètres de ligne ferroviaire. Elle compte 54 000 collaborateurs pour un chiffre d’affaires en 2019 de 5 7 milliards d’euros. ,"Alors que 98 % des accidents aux passage à niveau sont dus à des comportements dangereux des usagers  l’objectif principal est d’améliorer la sécurité des franchissements aux passages à niveau en concevant des mesures simples de sécurisation avec les usagers et les habitants  en commençant par les communes de Deuil-Montmagny et Marnes-la-Coquette. 
+
+La démarche participative a d’abord consisté à réaliser une étude des comportements aux passages à niveaux et des analyses urbaines dont les résultats ont ensuite été partagés avec les partenaires  les riverains et les usagers. SNCF Réseau a ensuite mis en place un « atelier d’idéation » pour permettre aux riverains et usagers de créer leurs propres nudges pour accroitre la sécurité sur les passages à niveau : marquage au sol  panneaux d’anticipation  etc.
+
+L’objectif est de renouveler cette démarche sur d’autres passages à niveau pour ensuite « industrialiser » les nudges qui fonctionnement. ","Acteurs associés à la démarche pour Deuil-Montmagny : sous-préfecture de Sarcelles  Région Ile-de-France  Département du Val d’Oise  RATP et les communes de Deuil-La-Barre et Montmagny 
+
+Acteurs associés à la démarche pour Marnes-la-Coquette : sous-préfecture d’Antony  Région Ile-de-France  la DRIEA  l’EPT Grand Paris Seine Ouest  le parc de Saint-Cloud  les communes de Marnes-la-Coquette et Garches.
+
+Également impliqués dans la démarche : PSYKOLAB   KANTAR(cabinets d’études) et EKER (agence spécialisée en concertation)","SNCF Réseau 
+15/17 rue Jean-Philippe RAMEAU - CS 80001 
+93418 LA PLAINE SAINT DENIS CEDEX",15 rue Jean-Philippe RAMEAU,93418,La Plaine St Denis,15 rue Jean-Philippe RAMEAU 93418 La Plaine St Denis,Lauréat (4 étoiles) des Trophées de la Participation et de la Concertation 2019,www.sncf-reseau.com,,,"SNCF Réseau a souhaité concevoir des mesures simples de sécurisation des passages à niveau avec les acteurs du territoire en s’appuyant sur leur expertise d’usage et les pratiques quotidiennes des riverains et usagers.
+
+Le pari est d’accroitre la sécurité aux passages à niveau  aujourd’hui reposant essentiellement sur des solutions techniques  en mettant en place des nudges (« coup de pouce » incitant quelqu’un à adopter un comportement plutôt qu’un autre) ",DÉROULÉ DU PROJET,"Étape 1 :: Diagnostic psychosocial sur les passages à niveau //
+
+Étape 2 :: Sélection de leviers d’action avec les partenaires institutionnels //
+
+Étape 3 :: Atelier de création avec les habitants de communes concernées //
+
+Étape 4 :: Sélection des mesures avec les partenaires institutionnels //
+
+Étape 5 :: Mise en place des mesures //
+
+Étape 6 :: Évaluation des mesures //
+
+Étape 7 :: Choix avec les partenaires sur la pérennisation ou non des mesures
+ ",43.57272,3.912558,Plan Jean Philippe Rameau 34970 Lattes,0.44,street,34129_0056,,Plan Jean Philippe Rameau,,34970,Lattes,"34, Hérault, Occitanie",34129,,,
+ENTREPRISE PRIVÉE,EP,"DIALOGUE ENTRE LES PARTIES PRENANTES
+
+DISPOSITIF DE CONCERTATION
+
+AUTRE",DPP-DC-AU,"URBANISME / AMÉNAGEMENT
+
+ÉDUCATION 
+
+TRANSPORT / MOBILITÉ 
+
+CADRE DE VIE ",URB-EDU-MOB-VIE,Le jeu des pionnières et des pionniers,Société Publique Locale (SPL) Lyon Confluence,La SPL Lyon Confluence a pour mission le réaménagement urbain d’un territoire de 150 hectares  situé au confluent du Rhône et de la Saône. Elle développe  depuis plusieurs années  des dispositifs de co-construction de ces espaces publics  en lien direct avec ses usagers.,"Dans la cadre du réaménagement urbain du quartier « La Confluence » à Lyon  la Société Publique Locale a lancé une concertation de toutes les parties prenantes du territoire. Cette démarche avait pour objectif de replacer l’usager au cœur de la conception de l’espace public.
+
+Des outils de participation mobiles et ludiques ont été déployés. Dans un premier temps  la parole des différents usagers a été recueillie grâce au triporteur Bikloo  qui s’est rendu dans des établissements scolaires et des lieux publics.
+
+Par la suite  un jeu de rôle grandeur nature a été organisé. 11 personnages  représentant la diversité des usages du territoire  ont été imaginés. Les participants ont ainsi été amenés à se projeter et à vivre l’espace public dans la peau d’un autre usager. Ce déplacement de perception a permis la construction d’une parole plus collective et partagée.",La démarche a été co-construite avec deux prestataires : l’Atelier Pop Corn et MémO.,"Société Publique Locale (SPL) Lyon Confluence
+73 rue Smith 
+69002 LYON",73 rue Smith ,69002,Lyon,73 rue Smith  69002 Lyon,Lauréat (3 étoiles) des Trophées de la Participation et de la Concertation 2019,www.lyon-confluence.fr,,,"Une mise en débat de tous les usages du territoire afin de rendre la parole plus collective  moins individuelle
+
+Une volonté d’introduire une dimension ludique à la participation  grâce au dispositif « Bikloo  le vélo à paroles » et au jeu de rôles des pionnières et pionniers",DÉROULÉ DU PROJET,"Avril/mai 2019 :: Réunions préparatoires SPL Lyon Confluence - Pop Corn - MémO  //
+
+18 juin 2019 :: Sortie du triporteur Bikloo dans les écoles et les parts  //
+
+20 et 29 juin 2019 :: Jeu de rôles des pionnières et des pionniers  //
+
+Septembre 2019 :: Restittution auprès des urbanistes et des paysagistes  //
+
+Octobre 2019 :: Restitution auprès des participants",45.741487,4.82143,73 Rue Smith 69002 Lyon,0.95,housenumber,69382_6795_00073,73,Rue Smith,,69002,Lyon,"69, Rhône, Auvergne-Rhône-Alpes",69382,,,Lyon 2e Arrondissement
+GRANDE VILLE  COMMUNAUTÉ URBAINE  MÉTROPOLE,GV,"PLATEFORME NUMÉRIQUE -
+
+BUDGET PARTICIPATIF -
+
+DIALOGUE ENTRE PARTIES PRENANTES -
+
+INSTANCE DE PARTICIPATION -
+
+DISPOSITIF DE CONCERTATION -
+
+EXERCICE DE PROPECTIVE -",PN-BP-DPP-IP-DC-EP,"ENVIRONNEMENT / CLIMAT / ÉNERGIE / BIODIVERSITÉ
+
+URBANISME / AMÉNAGEMENT
+
+TRANSPORT / MOBILITÉ 
+
+LOGEMENT
+
+",ENV-URB-MOB-LOG,Co-construction et participation citoyenne sur la transition énergétique du territoire de Grand Poitiers,Communauté Urbaine du Grand Poitiers ,Le Grand Poitiers est une intercommunalité du département de la Vienne. Elle compte 40 communes et plus de 190 000 habitants. Elle fait partie des premières collectivités à engager un Schéma directeur des énergies aussi poussé et partagé. ,"Dans le cadre du PCAET  les collectivités sont réglementairement soumises à une consultation du public. Le Grand Poitiers a fait le choix de porter une démarche plus ambitieuse  en associant toutes les parties prenantes à la co-construction de la stratégie territoriale en matière de transition énergétique.
+
+Dès 2017  un large écosystème d’acteurs a été associé à l’élaboration d’un scénario chiffré : le Schéma directeur d’énergies. Il définit les objectifs stratégiques à l’horizon 2030  dans tous les domaines de la transition énergétique. Cette démarche a mobilisé 300 interlocuteurs au cours de 50 réunions de travail. Les données issues de ces réflexions ont été ouvertes en Open Data.
+
+Un programme de 116 actions a été formalisé et soumis à l’avis et aux propositions des habitants. Sur une plateforme numérique  il était possible d’exprimer son avis  déposer des amendements  voter  etc. En parallèle  3 réunions publiques se sont tenues  animées grâce à deux formats originaux : l’atelier du récit guidé et la cartographie participative.",La civictech Cap Collectif a développé la plateforme numérique de participation citoyenne  et mis à disposition des méthodologies d’animation des réunions publiques. ,"Communauté Urbaine du Grand Poitiers 
+Place du Maréchal Leclerc 
+CS10569
+86021 POITIERS Cedex",Place du Maréchal Leclerc,86021, Poitiers ,Place du Maréchal Leclerc 86021  Poitiers ,Lauréat (3 étoiles) des Trophées de la Participation et de la Concertation 2019,"www.grandpoitiers.fr
+www.jeparticipe-grandpoitiers.fr",,,"Une stratégie ambitieuse : aller au-delà des seules consultations publiques prévues par le Plan Climat-Air-Énergie Territorial (PCAET)
+
+Une stratégie réaliste : faire appel à l’intelligence collective en impliquant toutes les parties prenantes du territoire (collectivités  entreprises  associations  habitants  etc)",DÉROULÉ DU PROJET,"2017 :: État des lieux de la transition énergétique sur le territoire  //
+
+1er semestre 2018 :: Co-construction d'un scénario chiffré  //
+
+2ème semestre 2018 :: Co-construction du programme d'actions //
+
+Juillet-novembre 2019 :: Consultation numérique des citoyens //
+
+Septembre 2019 :: 3 réunions publiques de concertation //
+
+6 décembre 2019 :: Adoption du PCAET par le Conseil Communautaire du Grand Poitiers",46.580692,0.339692,Place du Maréchal Leclerc 86000 Poitiers,0.83,street,86194_2670,,Place du Maréchal Leclerc,,86000,Poitiers,"86, Vienne, Nouvelle-Aquitaine",86194,,,
+ADMINISTRATION D'ÉTAT,AE,PLATEFORME NUMÉRIQUE -,PN,URBANISME / AMÉNAGEMENT,URB,Ma Plage  Demain…?,Préfecture de l'Hérault - Direction Départementale des Territoires et de la Mer (DDTM),La Préfecture de l’Hérault représente les services déconcentrés de l’État sur un territoire de plus d’1 1 millions d’habitants dans la Région Occitanie.,"Dans le cadre de l’élaboration de la stratégie départementale de gestion intégrée et durable du Domaine Public Maritime du département de l’Hérault  la Préfecture a souhaité mettre en place une démarche de concertation afin de crédibiliser les futurs cahiers des charges de concessions des plages aux communes.
+
+La mise en place d’une plateforme numérique a permis de dépasser les simples ateliers de concertation avec les acteurs locaux déjà identifiés pour toucher un public plus large  avec environ 2000 participants en ligne. Ces derniers ont été invités à s’’exprimer sur leur usage des plages  leurs attentes et leur vision ainsi que leurs préférences notamment pour les équipements et offres de services sur ces plages.
+
+La Préfecture a pris l’engagement d’être transparente sur les résultats de cette démarche et de recevoir un certain nombre de contributeurs pour leur répondre directement.",Cap Collectif a accompagné la mise en place de la démarche à travers un appui méthodologique et la mise à disposition d’une plateforme de participation en ligne.,"Préfecture de l'Hérault - Direction Départementale des Territoires et de la Mer (DDTM)
+Bâtiment OZONE - 181 Place Ernest GRANIER 
+CS 60556 - 34064 MONTPELLIER Cedex 2",181 Place Ernest GRANIER ,34064,Montpellier,181 Place Ernest GRANIER  34064 Montpellier,Lauréat (3 étoiles) des Trophées de la Participation et de la Concertation 2019,www.herault.gouv.fr,,,"La Préfecture de l’Hérault est la première préfecture à mettre en place une démarche de consultation volontaire du public en amont de la définition d’une stratégie territoriale et d’orientation de gestion.
+
+Il s’agit d’une démarche qui va au-delà du cadre réglementaire  avec pour objectifs de moderniser l’action publique et de sortir des logiques descendantes et des décisions prise à huis clos  en intégrant le citoyen à la décision.",DÉROULÉ DU PROJET,"18 février 2019 :: 1ère réunion avec les maires littoraux pour présenter la démarche et proposer un diagnostic partagé  //
+
+8 avril 2019 :: Ouverture de la consultation en ligne avec deux formats proposés :: un questionnaire fermé sur les usages et une boîte à idées ouverte et collaborative  //
+
+Mi-avril 2019 :: Ateliers des acteurs locaux  //
+
+17 mai 2019 :: Fin de la consultation en ligne  //
+
+20 mai 2019 :: Publication d'une synthèse des résultats du questionnaire et d'un classement des contributions de la boîte à idée //
+
+02 octobre 2019 :: 2ème réunion des maires littoraux pour valider une stratégie partagée et ses orientations de gestion",43.601853,3.901579,181 Place Ernest Granier 34000 Montpellier,0.84,housenumber,34172_6129_00181,181,Place Ernest Granier,,34000,Montpellier,"34, Hérault, Occitanie",34172,,,
+ASSOCIATION OU COLLECTIF CITOYEN,AC,"DIALOGUE ENTRE PARTIES PRENANTES 
+
+INSTANCE DE PARTICIPATION
+
+DISPOSITIF DE CONCERTATION 
+
+EXERCICE DE PROSPECTIVE",DPP-IP-DC-EP,"ENVIRONNEMENT / CLIMAT / ENERGIE / BIODIVERSITE
+
+URBANISME / AMENAGEMENT 
+
+ACTION ET INCLUSION SOCIALE
+
+TRANSPORTS / MOBILITÉ
+
+DEMOCRATIE ET CITOYENNETE 
+
+CADRE DE VIE ",ENV-URB-ACT-MOB-DEM-VIE,Muttersholtz 2050  demain commence aujourd'hui,Maison de la Nature - CPIE du Ried et de l'Alsace centrale,La Maison de la Nature est une association d’éducation à l’environnement et de développement local durable. Elle compte 21 salariés.,"L’association Maison de la Nature du Ried et de l’Alsace a pris l’initiative du projet Muttersholtz 2050 visant à accompagner l’émergence de solutions concrètes et nouvelles en faveur de la transition écologique  énergétique et solidaire en mobilisant un maximum d’habitants et d’acteurs de la commune.
+
+Lors de la soirée de lancement de cette démarche  20 « Porte- Voix » ont été identifiés  relais privilégiés pour faire parler du projet et mobiliser les habitants. Puis  les préoccupations des citoyens ont été recueillies via des enquêtes et des entretiens individuels  puis analysées et synthétisées (238 habitants interrogés  soit 11% de la population). A partir des résultats  un week-end festif et familial a été organisé autour des préoccupations principales.
+
+Après cette première étape des Fabriques de projet (réunions de co-construction pilotées par la Maison de la Nature sur le vivre ensemble et sur la mobilité douce) et des Ateliers du Faire (organisation autonome autour d’initiatives citoyennes comme une épicerie coopérative) ont été mis en place.",La démarche a été développée grâce au soutien financier de la commune mais aussi de l’ADEME  de la Fondation de France  de la DREAL Grand Est et du Fonds de développement de la vie associative.,"Maison de la Nature - CPIE du Ried et de l'Alsace centrale
+35 ehnwhir 
+67600 MUTTERSHOLTZ",35 Ehnwhir ,67600,Muttersholtz,35 Ehnwhir  67600 Muttersholtz,Lauréat (3 étoiles) des Trophées de la Participation et de la Concertation 2019,www.maisonnaturemutt.org,,,"Une initiative innovante lancée par une association à l’échelle d’un village : la commune de Muttersholtz (Bas-Rhin  2100 habitants)
+
+L’objectif est de développer des solutions locales face à des enjeux globaux (dérèglement climatique) en favorisant le pouvoir d’agir des citoyens",DÉROULÉ DU PROJET,"Février - Mars 2018 :: Présentation du projet - 20 personnes acceptent de devenir ""Porte-Voix"" //
+
+Mars - Juillet 2018 :: Recueil des préoccupations des habitants et acteurs du village  //
+
+Septembre 2018 :: Week-end festif et familial en lien avec les préoccupations exprimées (film  ateliers etc...)  //
+
+Novembre 2018 - Novembre 2019 :: Fabrique de projets et Ateliers du Faire  //
+
+Novembre 2019 - Novembre 2020 :: Accompagnement à la mise en oeuvre des projets  //
+
+Été 2020 :: Évaluation et pérennisation de la participation citoyenne dans les instances de la commune",48.269208,7.52188,35 Rue Ehnwihr 67600 Muttersholtz,0.68,housenumber,67311_0050_00035,35,Rue Ehnwihr,,67600,Muttersholtz,"67, Bas-Rhin, Grand Est",67311,,,
+REGION,RG,"PLATEFORME NUMÉRIQUE 
+INSTANCE DE PARTICIPATION 
+
+DISPOSITIF DE CONCERTATION ",PN-IP-DC,"ENVIRONNEMENT / CLIMAT / ENERGIE / BIODIVERSITE
+
+URBANISME / AMENAGEMENT 
+
+CULTURE
+
+ÉDUCATION
+
+SANTÉ / DÉMOCRATIE SANITAIRE
+
+BUDGET
+
+TRANSPORTS / MOBILITÉ
+
+LOGEMENT
+
+DEMOCRATIE ET CITOYENNETE 
+
+ORGANISATION DES SERVICES PUBLICS
+
+CADRE DE VIE 
+",ENV-URB-CUL-EDU-SAN-BUD-MOB-LOG-DEM-SER-VIE,Direction Générale Adjointe de la Gouvernance Partagée,Hôtel de Région Pierre LAGOURGUE,La Région Réunion  ultramarine et insulaire  compte 866 000 habitants et la 3ème population la plus jeune de France. Dans un contexte social contrasté où 39% des habitants vivent sous le seuil de pauvreté et avec 20% de chômage  elle a souhaité s’inscrire dans une démarche forte d’inclusion des citoyens.,"Pour apporter une réponse à la volonté d’une plus grande implication des citoyens dans l’action publique  perceptible sur le territoire avec le mouvement des « Gilets Jaunes »  la Région Réunion a souhaité modifier ses pratiques de mise en œuvre de l’action publique. En créant une Direction Générale Adjointe (DGA) chargée de la Gouvernance partagée  la Région a pour objectif de modifier sa méthode de prise de décision et d’impliquer l’ensemble du territoire dans la gouvernance régionale.
+
+Un processus de co-construction  engagé pour créer un Conseil Consultatif Citoyen (CCC)  a posé la première pierre du dialogue citoyen. Ce CCC  représentant la société civile  a pour rôle d’être saisi sur les sujets d’intérêt général et de permettre d’associer les citoyens à la construction des projets de la collectivité régionale. Il doit aussi favoriser la transparence des décisions et de l’action de la Région. L’animation de ce Conseil est assurée par la DGA « Gouvernance partagée ».
+
+Celle-ci travaille également à la mise en place de formations à la discussion. Elle assure aussi l’interface avec les autres conseils consultatifs  met en place des ateliers ouverts à la population  fait vivre la plateforme Cap Citoyen Réunion et consulte les citoyens en ligne.",Le déploiement de la plateforme régionale Cap Citoyen Réunion  ouverte le 19 février  a été confié à Cap Citoyen.,Hôtel de Région Pierre LAGOURGUE Avenue René Cassin Moufia B.P 67190 97801 SAINT DENIS MESSAG - CEDEX 9,Avenue René Cassin Moufia,67190, Saint Denis,Avenue René Cassin Moufia 67190  Saint Denis,Lauréat (3 étoiles) des Trophées de la Participation et de la Concertation 2019,www.regionreunion.com,,,"Réorganisation des services administratifs de la Région Réunion avec une Direction Générale Adjointe dédiée  entre autres  à la supervision d’un Conseil Consultatif Citoyen
+
+Faire du Conseil Consultatif Citoyen  composé de citoyens tirés au sort  l’interlocuteur relais des préoccupations des citoyens grâce au dialogue et à l’écoute pour améliorer la pertinence et l’efficacité de l’action publique",DÉROULÉ DU PROJET,"30 novembre 2018 :: Annonce en préfecture par le Président de Région de la création d’un Conseil Consultatif Citoyen (CCC) tiré au sort //
+
+Décembre 2018 :: Rencontres avec les différents collectifs de Gilets Jaunes exprimant leur intérêt et définition partagée du processus de co-construction du futur CCC //
+
+Janvier 2019 :: Ateliers participatifs territoriaux //
+
+26 janvier 2019 :: Séance de restitution des ateliers et annonce des modalités d’élargissement de la concertation //
+
+19 février au 19 mars 2019 :: Consultation en ligne sur les modalités de composition du CCC  son rôle et son fonctionnement + espace dédié aux contributions écrites //
+
+28 mai 2019 :: Tirage au sort des membres //
+
+16 juin 2019 :: Installation du CCC :: 48 titulaires  48 suppléants //
+
+Juillet 2019 :: Avis favorable du Comité Technique sur la nouvelle organisation administrative et la création de la Direction Générale Adjointe Gouvernance Partagée",-20.903743,55.487023,Avenue René Cassin 97490 Saint-Denis,0.68,street,97411_1181,,Avenue René Cassin,,97490,Saint-Denis,"974, La Réunion",97411,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,
